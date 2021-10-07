@@ -54,4 +54,4 @@ plot([-20 7.8],[0,0],'k+-',"linewidth",5,"markersize",12)
 plot([0 0],[-15 15],'k-',"linewidth",5)
 plot(x,sign(y)*5,'bs-',"markersize",12)
 xlabel("Eje X","fontsize",20)
-title( "El intervalo de la ecuacion de valor absoluto es: (-oo, 7.8) y (-oo, 8.2)"
+title( "El intervalo de la ecuacion de valor absoluto es: (-oo, 7.8) y (-oo, 8.2)" )
