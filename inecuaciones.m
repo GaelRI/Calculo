@@ -6,7 +6,7 @@ disp("...:::Inecuaciones de Primer Grado:::...");
 disp(x-8<10);
 solve(x-8<10)
 
-subplot(2,2,1);
+subplot(2,2,1); 
 x=[-20:18]
 y=x-18
 plot(x,y,'ro-',"markersize",10,"linewidth",3)
