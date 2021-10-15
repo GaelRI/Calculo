@@ -1,7 +1,15 @@
-pkg load symbolic
+%octave.funciones
+% Escuela: Tecnologico de Estudios Superiores de Jilotepec
+% Especialidad: Ingenier√≠a en Sistemas Computacionales
+% Titulo:Definicion de variable,funcion,dominio y rango
+% Autor:Freddy ivan Alvarez Rpberto, Gael Franco Garcia , Oswaldo Aguilar Navarrete
+% Fecha:14-10-21
+% Notas:Requiere paquete symbolic 
+
+pkg loadsymboli
 syms x
 
-disp("Una persona tiene su casa en un patio rectangular que mide 20 por 30 metros y desea construir una alberca de forma rectangular, cuya ·rea sea de 40 metros cuadrados.Determina las dimensiones del rect·ngulo para que la cantidad de material que use en las paredes sea mÌnima")
+disp("Una persona tiene su casa en un patio rectangular que mide 20 por 30 metros y desea construir una alberca de forma rectangular, cuya √°rea sea de 40 metros cuadrados.Determina las dimensiones del rect√°ngulo para que la cantidad de material que use en las paredes sea m√≠nima")
 disp("")
 disp("La funcion del problema es: 80/x+2x")
 
